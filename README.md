@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I am a self-taught programmer who started my coding journey in summer of 2024 with a primary focus on C++. 
+
 With a strong passion for learning, I am excited to delve deeper into this language and eventually expand into other languages. I enjoy tackling complex problems and challenges which also provide me with an opportunity for growth. 
+
 I am eager to collaborate with others, share my projects, and contribute to the programming community as I develop my expertise in C++ and other languages to come. 
 
 Let’s connect and learn together!
